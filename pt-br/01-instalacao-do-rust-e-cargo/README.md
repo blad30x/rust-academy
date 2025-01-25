@@ -37,30 +37,7 @@ Cargo é o gerenciador de pacotes do Rust. Ele é instalado automaticamente junt
 - Executar testes
 - Gerar documentação
 
-## Comandos Básicos do Cargo
-
-- Criar novo projeto: `cargo new nome_do_projeto`
-- Compilar: `cargo build`
-- Executar: `cargo run`
-- Verificar se compila: `cargo check`
-
-## Criando seu Primeiro Projeto
-
-1. Crie um novo projeto:
-```bash
-cargo new hello_world
-cd hello_world
-```
-
-2. O Cargo já cria um programa "Hello, World!" em `src/main.rs`
-3. Execute o projeto:
-```bash
-cargo run
-```
-
 ## Próximos Passos
 
-1. Configure seu editor de código (VS Code, IntelliJ, etc.)
-2. Instale a extensão rust-analyzer
-3. Comece a estudar a sintaxe básica do Rust
-4. Pratique criando pequenos programas 
+1. [Configure seu ambiente de desenvolvimento](../02-ambiente-de-desenvolvimento/README.md) (VS Code, IntelliJ, etc.)
+3. [Instale a extensão rust-analyzer](../02-ambiente-de-desenvolvimento/README.md)
