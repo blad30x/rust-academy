@@ -104,17 +104,6 @@ fn main() {
 }
 ```
 
-## Exercícios Práticos
-
-1. Modifique o programa para:
-   - Perguntar o nome do usuário (dica: use `std::io::stdin()`)
-   - Cumprimentar com o nome fornecido
-   - Usar cores diferentes
-
-2. Adicione:
-   - Data e hora atual (dica: use a crate `chrono`)
-   - Uma mensagem personalizada baseada no horário do dia
-
 ## Dicas de Desenvolvimento
 
 1. Use `cargo doc --open` para ver a documentação das dependências
@@ -124,52 +113,4 @@ fn main() {
 
 ## Próximos Passos
 
-1. Sintaxe básica
-
-1. Fundamentos Básicos
-Instalação do Rust e Cargo
 Sintaxe básica
-Variáveis e mutabilidade
-Tipos de dados básicos
-Funções
-Controle de fluxo (if, loop, while, for)
-Comentários e documentação
-2. Conceitos Fundamentais do Rust
-Ownership (propriedade)
-Borrowing (empréstimo)
-Referencias e slices
-Sistema de tipos
-Pattern matching
-Enums e structs
-Traits
-Gerenciamento de erros com Result e Option
-3. Programação Intermediária
-Coleções (Vector, String, HashMap)
-Módulos e organização de código
-Testes unitários
-Generics
-Closures e iteradores
-Tratamento de erros avançado
-Smart pointers
-Concorrência básica
-4. Tópicos Avançados
-Programação assíncrona
-Macros
-FFI (Foreign Function Interface)
-Unsafe Rust
-Padrões de design em Rust
-Otimização de performance
-WebAssembly
-5. Projetos Práticos
-Pequenos projetos para começar:
-Calculadora via linha de comando
-Gerenciador de tarefas simples
-Jogo da forca
-Projetos intermediários:
-API REST simples
-Parser de arquivos
-Cliente/servidor TCP
-Projetos avançados:
-Sistema de banco de dados simples
-Framework web básico
-Ferramenta de linha de comando complexa

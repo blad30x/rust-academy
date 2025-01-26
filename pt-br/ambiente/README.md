@@ -56,15 +56,6 @@ brew install lldb
 sudo apt-get install lldb
 ```
 
-## Configurando o Git
-
-Arquivo `.gitignore` recomendado para projetos Rust:
-```gitignore
-/target
-Cargo.lock
-**/*.rs.bk
-```
-
 ## Próximos Passos
 
-1. Primeiro Projeto
+1. [Primeiro Projeto](../03-primeiro-projeto/README.md)
