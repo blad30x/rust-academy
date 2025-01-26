@@ -64,20 +64,10 @@ fn cumprimentar(nome: &str) {
 
 fn main() {
     // Variável com seu nome
-    let nome = "Desenvolvedor Rust";
+    let _nome = "Desenvolvedor Rust";
     
     // Chamando a função
-    cumprimentar(nome);
-    
-    // Usando formatação de strings
-    println!("Bem-vindo ao mundo do {}!", "Rust");
-    
-    // Múltiplas linhas
-    println!("Algumas coisas que você vai aprender:
-    1. Sintaxe da linguagem
-    2. Gerenciamento de memória
-    3. Programação segura
-    4. E muito mais!");
+    cumprimentar(_nome);
 }
 ```
 
@@ -98,9 +88,8 @@ Agora modifique `src/main.rs`:
 ```rust
 use colored::*;
 
-fn main() {
-    println!("{}", "Olá, Mundo Colorido!".green().bold());
-    println!("{}", "Rust é {}!".blue().bold(), "incrível".red());
+fn cumprimentar(nome: &str) {
+    println!("{}", format!("Olá, {}!", nome).green().bold());
 }
 ```
 
@@ -111,6 +100,3 @@ fn main() {
 3. Use `cargo fmt` para formatar o código
 4. Execute `cargo clippy` para ver sugestões de melhorias
 
-## Próximos Passos
-
-Sintaxe básica
