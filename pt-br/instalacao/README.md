@@ -37,7 +37,5 @@ Cargo é o gerenciador de pacotes do Rust. Ele é instalado automaticamente junt
 - Executar testes
 - Gerar documentação
 
-## Próximos Passos
-
-1. [Configure seu ambiente de desenvolvimento](../02-ambiente-de-desenvolvimento/README.md) (VS Code, IntelliJ, etc.)
-3. [Instale a extensão rust-analyzer](../02-ambiente-de-desenvolvimento/README.md)
+| [⬅️ Introdução ao Rust](../introducao/README.md) | [Ambiente de Desenvolvimento ➡️](../ambiente/README.md) |
+|:-----------------------------------------------|-----------------------------------------------------:|
