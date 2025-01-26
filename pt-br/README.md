@@ -11,28 +11,48 @@ Este é um curso prático de Rust em Português, desenvolvido para ajudar inicia
    - Casos de uso comuns
    - Pré-requisitos
 
-2. [Instalação do Rust e Cargo](instalacao/README.md)
-   - Instalação no macOS, Linux e Windows
-   - Verificação da instalação
-   - Introdução ao Cargo
+2. **Preparando o Ambiente**
+   - [Instalação do Rust e Cargo](setup/instalacao/README.md)
+     - Instalação no macOS, Linux e Windows
+     - Verificação da instalação
+     - Introdução ao Cargo
+   - [Configuração do Ambiente](setup/ambiente/README.md)
+     - Configuração do Cursor (editor recomendado)
+     - Instalação e configuração do rust-analyzer
+     - Ferramentas essenciais (rustfmt, clippy, LLDB)
 
-3. [Ambiente de Desenvolvimento](ambiente/README.md)
-   - Configuração do Cursor (editor recomendado)
-   - Instalação e configuração do rust-analyzer
-   - Ferramentas essenciais (rustfmt, clippy, LLDB)
+3. **Primeiros Passos**
+   - [Primeiro Projeto](primeiro-projeto/README.md)
+     - Criando um projeto com Cargo
+     - Estrutura básica de um projeto Rust
+     - Comandos fundamentais do Cargo
+     - Exemplo prático de Hello World
+     - Adicionando dependências
 
-4. [Primeiro Projeto](primeiro-projeto/README.md)
-   - Criando um projeto com Cargo
-   - Estrutura básica de um projeto Rust
-   - Comandos fundamentais do Cargo
-   - Exemplo prático de Hello World
-   - Adicionando dependências
+4. **Sintaxe da Linguagem**
+   - [Números Inteiros](sintaxe/inteiros/README.md)
+     - Tipos com e sem sinal
+     - Tamanhos e limites
+     - Operações básicas
+     - Conversões
+   - [Números de Ponto Flutuante](sintaxe/flutuantes/README.md)
+     - Tipos f32 e f64
+     - Precisão e arredondamento
+     - Operações matemáticas
+     - Casos especiais (NaN, infinito)
+   - [Strings e Texto](sintaxe/strings/README.md)
+     - String vs &str
+     - Operações com texto
+     - Unicode e UTF-8
+     - Formatação e interpolação
 
-5. [Sintaxe Básica](sintaxe-basica/README.md)
-   - Variáveis e tipos
-   - Estruturas de controle
-   - Funções
-   - Exercícios práticos
+5. **Controle de Fluxo**
+   - [Variáveis e Controle](variaveis-controle/README.md)
+     - Declaração de variáveis
+     - Mutabilidade e shadowing
+     - Condicionais (if/else)
+     - Match expressions
+     - Loops (for, while, loop)
 
 ## Como Usar Este Curso
 
@@ -47,16 +67,14 @@ Este curso está em desenvolvimento contínuo. Sugestões e contribuições são
 
 ## Próximos Tópicos (Em Desenvolvimento)
 
-- Tipos de dados
-- Estruturas de controle
-- Funções
-- Ownership e Borrowing
-- Structs e Enums
-- Tratamento de erros
-- Programação Blockchain
+- **Conceitos Avançados**
+  - Funções e Ownership
+  - Structs e Enums
+  - Tratamento de erros
+
+- **Desenvolvimento Blockchain**
   - Introdução ao desenvolvimento Solana
   - Smart Contracts em Rust
   - Programas Solana (on-chain)
   - Integração com carteiras e tokens
   - Desenvolvimento de DApps
-- E muito mais!

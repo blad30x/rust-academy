@@ -37,5 +37,5 @@ Cargo é o gerenciador de pacotes do Rust. Ele é instalado automaticamente junt
 - Executar testes
 - Gerar documentação
 
-| [⬅️ Introdução ao Rust](../introducao/README.md) | [Ambiente de Desenvolvimento ➡️](../ambiente/README.md) |
-|:-----------------------------------------------|-----------------------------------------------------:|
+| [⬅️ Introdução ao Rust](../../introducao/README.md) | [Configuração do Ambiente ➡️](../ambiente/README.md) |
+|:------------------------------------------------|------------------------------------------------:|

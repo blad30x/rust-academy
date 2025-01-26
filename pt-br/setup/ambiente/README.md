@@ -56,5 +56,7 @@ brew install lldb
 sudo apt-get install lldb
 ```
 
-| [⬅️ Instalação do Rust e Cargo](../instalacao/README.md) | [Primeiro Projeto ➡️](../primeiro-projeto/README.md) |
+# Configuração do Ambiente
+
+| [⬅️ Instalação do Rust e Cargo](../instalacao/README.md) | [Primeiro Projeto ➡️](../../primeiro-projeto/README.md) |
 |:-----------------------------------------------------|--------------------------------------------------:|
