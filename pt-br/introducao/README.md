@@ -83,6 +83,5 @@ Para aproveitar ao máximo este curso, é recomendável:
 
 ---
 
-No próximo capítulo, começaremos com a [instalação do Rust e suas ferramentas](../instalacao/README.md)!
-
-[⬅️ Voltar para o índice](../README.md) 
+| [⬅️ Voltar para o índice](../README.md) | [Instalação do Rust e Cargo ➡️](../instalacao/README.md) |
+|:----------------------------------------|-------------------------------------------------------:| 
