@@ -2,7 +2,7 @@
 
 Este é um curso prático de Rust em Português, desenvolvido para ajudar iniciantes a aprenderem a linguagem de programação Rust.
 
-## Tópicos Disponíveis
+## Tópicos
 
 1. [Introdução ao Rust](introducao/README.md)
    - O que é Rust?
@@ -38,14 +38,3 @@ Este é um curso prático de Rust em Português, desenvolvido para ajudar inicia
 ## Contribuindo
 
 Este curso está em desenvolvimento contínuo. Sugestões e contribuições são bem-vindas!
-
-## Próximos Tópicos (Em Desenvolvimento)
-
-- Sintaxe básica
-- Tipos de dados
-- Estruturas de controle
-- Funções
-- Ownership e Borrowing
-- Structs e Enums
-- Tratamento de erros
-- E muito mais! 

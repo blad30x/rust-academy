@@ -64,7 +64,13 @@ Rust é especialmente adequado para:
    - Aplicações web de alto desempenho
    - Processamento no navegador
 
-4. **Ferramentas de Linha de Comando**
+4. **Blockchain e Criptomoedas**
+   - Smart Contracts na Solana
+   - Programas on-chain
+   - Infraestrutura blockchain
+   - DApps (Aplicações Descentralizadas)
+
+5. **Ferramentas de Linha de Comando**
    - Substituições de utilitários Unix
    - Ferramentas de desenvolvimento
 
@@ -75,4 +81,8 @@ Para aproveitar ao máximo este curso, é recomendável:
 - Familiaridade com linha de comando
 - Disposição para aprender conceitos novos
 
-No próximo capítulo, começaremos com a instalação do Rust e suas ferramentas! 
+---
+
+No próximo capítulo, começaremos com a [instalação do Rust e suas ferramentas](../instalacao/README.md)!
+
+[⬅️ Voltar para o índice](../README.md) 
