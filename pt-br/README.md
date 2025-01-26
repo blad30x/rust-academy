@@ -65,16 +65,7 @@ Este é um curso prático de Rust em Português, desenvolvido para ajudar inicia
 
 Este curso está em desenvolvimento contínuo. Sugestões e contribuições são bem-vindas!
 
-## Próximos Tópicos (Em Desenvolvimento)
 
-- **Conceitos Avançados**
-  - Funções e Ownership
-  - Structs e Enums
-  - Tratamento de erros
+| [Introdução ao Rust ➡️](introducao/README.md) |
+|:----------------------------------------------|
 
-- **Desenvolvimento Blockchain**
-  - Introdução ao desenvolvimento Solana
-  - Smart Contracts em Rust
-  - Programas Solana (on-chain)
-  - Integração com carteiras e tokens
-  - Desenvolvimento de DApps
