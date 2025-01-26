@@ -1,4 +1,4 @@
-# Configurando o Ambiente de Desenvolvimento para Rust
+# Ambiente de Desenvolvimento
 
 ## Escolhendo um Editor de Código
 
@@ -56,6 +56,5 @@ brew install lldb
 sudo apt-get install lldb
 ```
 
-## Próximos Passos
-
-1. [Primeiro Projeto](../03-primeiro-projeto/README.md)
+| [⬅️ Instalação do Rust e Cargo](../instalacao/README.md) | [Primeiro Projeto ➡️](../primeiro-projeto/README.md) |
+|:-----------------------------------------------------|--------------------------------------------------:|
