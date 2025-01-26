@@ -2,7 +2,7 @@
 
 Este é um curso prático de Rust em Português, desenvolvido para ajudar iniciantes a aprenderem a linguagem de programação Rust.
 
-## Tópicos
+## Tópicos Disponíveis
 
 1. [Introdução ao Rust](introducao/README.md)
    - O que é Rust?
@@ -28,6 +28,12 @@ Este é um curso prático de Rust em Português, desenvolvido para ajudar inicia
    - Exemplo prático de Hello World
    - Adicionando dependências
 
+5. [Sintaxe Básica](sintaxe-basica/README.md)
+   - Variáveis e tipos
+   - Estruturas de controle
+   - Funções
+   - Exercícios práticos
+
 ## Como Usar Este Curso
 
 1. Siga os capítulos em ordem
@@ -38,3 +44,19 @@ Este é um curso prático de Rust em Português, desenvolvido para ajudar inicia
 ## Contribuindo
 
 Este curso está em desenvolvimento contínuo. Sugestões e contribuições são bem-vindas!
+
+## Próximos Tópicos (Em Desenvolvimento)
+
+- Tipos de dados
+- Estruturas de controle
+- Funções
+- Ownership e Borrowing
+- Structs e Enums
+- Tratamento de erros
+- Programação Blockchain
+  - Introdução ao desenvolvimento Solana
+  - Smart Contracts em Rust
+  - Programas Solana (on-chain)
+  - Integração com carteiras e tokens
+  - Desenvolvimento de DApps
+- E muito mais!
